@@ -5,7 +5,7 @@ Repository này chứa các công cụ phục vụ nghiên cứu bảo mật và
 ## Nội dung
 
 - **Command and Control (C2)**: Framework C++ đa nền tảng cho phép quản lý nhiều client từ xa.
-- **Process Hollowing**: Triển khai kỹ thuật tránh phát hiện bằng cách chạy mã trong không gian bộ nhớ của quy trình hợp pháp.
+- **Process Hollowing**: Triển khai kỹ thuật tránh phát hiện bằng cách chạy mã trong không gian bộ nhớ của tiến trình hợp pháp.
 
 ## Miễn trừ trách nhiệm
 
